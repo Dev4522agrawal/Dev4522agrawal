@@ -183,22 +183,28 @@ A personal AI memory engine that organizes conversations, documents, and project
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dev4522agrawal&show_icons=true&theme=dark&hide_border=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dev4522agrawal&show_icons=true&theme=default&hide_border=true&bg_color=00000000">
-  <img alt="Dev Agrawal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dev4522agrawal&show_icons=true&theme=default&hide_border=true&bg_color=00000000">
-</picture>
+<img
+  height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev4522agrawal&show_icons=true&theme=github_dark&hide_border=true"
+  alt="Dev Agrawal's GitHub Stats"
+/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4522agrawal&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4522agrawal&layout=compact&theme=default&hide_border=true&bg_color=00000000">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4522agrawal&layout=compact&theme=default&hide_border=true&bg_color=00000000">
-</picture>
+<img
+  height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev4522agrawal&layout=compact&theme=github_dark&hide_border=true"
+  alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=Dev4522agrawal&theme=github-dark&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 <br><br>
-
 ## Contribution Activity
 
 <div align="center">
