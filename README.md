@@ -5,20 +5,32 @@
 **Software Engineer** — Full Stack Development · Interactive Systems · AI-Powered Applications
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://interactive-ai-platform.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev4522agrawal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev4522agrawal@gmail.com)
 
 </div>
 
-<br>
+<br><br>
 
 ## About
 
-I build software across the full stack — from React-based interfaces and real-time rendering pipelines to FastAPI backends and graph-based data systems. My work sits at the intersection of **web engineering**, **computer graphics**, and **AI-powered applications**, with a focus on system design, performance, and developer experience.
+I build software that does real work under the hood — interfaces that stay responsive under load, backends that model data the way the problem actually shapes it, and rendering pipelines that stay smooth when a lot is happening on screen at once.
 
-> Focused on shipping well-architected systems — from browser-native rendering pipelines to production-grade backend APIs.
+Most of what I build sits between web engineering, computer graphics, and AI-backed systems, with an ongoing focus on architecture, performance, and how good the resulting codebase is to work in.
 
 <br>
+
+**Current Focus**
+
+- AI memory systems and knowledge-graph-based retrieval
+- Interactive browser graphics and real-time rendering
+- System design for scalable web applications
+- Full-stack application architecture
+
+<br><br>
+
+---
 
 ## Tech Stack
 
@@ -26,103 +38,144 @@ I build software across the full stack — from React-based interfaces and real-
 
 **Languages**
 <br>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=light">
+  <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=light">
+</picture>
+
+<br><br>
 
 **Frontend**
 <br>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=light">
+  <img alt="Frontend" src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=light">
+</picture>
+
+<br><br>
 
 **Backend**
 <br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Graphics**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light">
+  <img alt="Backend" src="https://skillicons.dev/icons?i=fastapi&theme=light">
+</picture>
 <br>
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Canvas API](https://img.shields.io/badge/Canvas%20API-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser-4B0082?style=for-the-badge)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge)
+<sub>Also: REST API design, SQLAlchemy</sub>
 
-**AI**
-<br>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-2E2E2E?style=for-the-badge)
+<br><br>
 
-**Database**
+**Graphics & AI**
 <br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=threejs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=threejs&theme=light">
+  <img alt="Graphics" src="https://skillicons.dev/icons?i=threejs&theme=light">
+</picture>
+<br>
+<sub>Also: WebGL · MediaPipe (Computer Vision) · Retrieval-Augmented Generation</sub>
+
+<br><br>
+
+**Databases**
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres&theme=light">
+  <img alt="Databases" src="https://skillicons.dev/icons?i=postgres&theme=light">
+</picture>
+<br>
+<sub>Also: Neo4j (Graph Database)</sub>
+
+<br><br>
 
 **Tools**
 <br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=light">
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=light">
+</picture>
 
 </div>
 
-<br>
+<br><br>
 
 ---
 
 ## Featured Projects
 
+<!-- Replace assets/iip-banner.png and assets/neural-nexus-banner.png with real project screenshots -->
+
+<table>
+<tr>
+<td width="100%">
+
+<img src="assets/iip-banner.png" alt="Interactive Intelligence Platform banner" width="100%">
+
 ### Interactive Intelligence Platform
 
-A persistent, browser-native platform combining computer graphics, computer vision, and physics simulation into a single interactive system — architected around a component-based React frontend and a shared, reusable rendering pipeline.
+A persistent, browser-native platform combining computer graphics, computer vision, and physics simulation into a single interactive system.
 
-**Modules:** Gesture Lab · Maze Explorer · Space Shooter · Particle Systems · Computer Vision · Interactive Simulations
+**Architecture:** Single-page application in React and TypeScript, structured around a component-based hierarchy spanning 10+ interactive modules. A shared rendering pipeline (React Three Fiber / WebGL) and centralized state management keep the codebase modular, so new modules plug in without touching core rendering logic.
 
-```mermaid
-flowchart LR
-    A[React + TypeScript UI] --> B[Shared Rendering Pipeline]
-    B --> C[Three.js / WebGL]
-    B --> D[MediaPipe Vision]
-    A --> E[10+ Interactive Modules]
-```
+**Highlights**
+- Reusable UI component library powering navigation, HUDs, and control panels across every module
+- Browser-native Web API integration (MediaPipe hand tracking) with optimized render loops and lazy-loaded modules
+- Computational Arcade: algorithm-visualization tools and browser games sharing a unified leaderboard service
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://interactive-ai-platform.vercel.app)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev4522agrawal/interactive-ai-platform)
+**Tech:** React · TypeScript · Three.js · React Three Fiber · MediaPipe
+
+[Live Demo →](https://interactive-ai-platform.vercel.app) · [Source →](https://github.com/Dev4522agrawal/interactive-ai-platform)
+
+</td>
+</tr>
+</table>
 
 <br>
+
+<table>
+<tr>
+<td width="100%">
+
+<img src="assets/neural-nexus-banner.png" alt="Neural Nexus banner" width="100%">
 
 ### Neural Nexus
 
-A personal AI memory engine that transforms conversations, documents, and project data into a continuously evolving knowledge graph — built on a FastAPI backend with PostgreSQL and Neo4j powering structured and graph-based retrieval.
+A personal AI memory engine that organizes conversations, documents, and project data into a continuously evolving knowledge graph.
 
-**Highlights:** Knowledge Graphs · Semantic Retrieval · AI Memory · Modern Backend Architecture
+**Architecture:** FastAPI backend with a REST API layer backed by PostgreSQL and Neo4j — PostgreSQL for structured data, Neo4j for relationship and graph queries. Backend is split into decoupled ingestion, graph-management, and retrieval layers so each can be scaled or replaced independently. Retrieval-Augmented Generation is exposed through a single API that orchestrates multiple local and cloud language models.
 
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev4522agrawal/Neural-Nexus)
+**Highlights**
+- Structured, API-driven data layer replacing ad-hoc context storage
+- Graph queries and relational modeling working together for semantic retrieval
+- Multi-model orchestration behind one unified retrieval endpoint
+- Fully containerized service stack for reproducible local deployment
 
-<br>
+**Tech:** FastAPI · PostgreSQL · Neo4j · Docker
+
+[Source →](https://github.com/Dev4522agrawal/Neural-Nexus)
+
+</td>
+</tr>
+</table>
+
+<br><br>
 
 ---
 
 ## What I Work With
 
-| | |
-|---|---|
-| Software Engineering | Full Stack Development |
-| AI Systems | System Design |
-| Computer Graphics | Developer Tools |
-| Performance Optimization | Distributed Systems |
+- Software Engineering & Full Stack Development
+- AI Systems & System Design
+- Computer Graphics & Interactive Experiences
+- Developer Tools & Performance Optimization
+- Distributed Systems
 
-<br>
+<br><br>
 
 ---
 
@@ -142,15 +195,9 @@ A personal AI memory engine that transforms conversations, documents, and projec
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4522agrawal&layout=compact&theme=default&hide_border=true&bg_color=00000000">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dev4522agrawal&theme=dark&hide_border=true&background=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dev4522agrawal&theme=default&hide_border=true&background=00000000">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev4522agrawal&theme=default&hide_border=true&background=00000000">
-</picture>
-
 </div>
 
-<br>
+<br><br>
 
 ## Contribution Activity
 
@@ -164,12 +211,28 @@ A personal AI memory engine that transforms conversations, documents, and projec
 
 </div>
 
-<br>
+<br><br>
+
+---
+
+## Resume
+
+<!-- Replace assets/resume-preview.png and assets/resume.pdf with your actual files -->
+
+<div align="center">
+
+<a href="assets/resume.pdf">
+  <img src="assets/resume-preview.png" alt="Resume preview — click to open PDF" width="70%">
+</a>
+
+</div>
+
+<br><br>
 
 ---
 
 <div align="center">
 
-**Let's connect** — [Portfolio](https://interactive-ai-platform.vercel.app) · [LinkedIn](https://linkedin.com/in/dev4522agrawal) · [Email](mailto:dev4522agrawal@gmail.com)
+[Portfolio](https://interactive-ai-platform.vercel.app) · [Resume](assets/resume.pdf) · [LinkedIn](https://linkedin.com/in/dev4522agrawal) · [Email](mailto:dev4522agrawal@gmail.com)
 
 </div>
