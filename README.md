@@ -221,19 +221,6 @@ A personal AI memory engine that organizes conversations, documents, and project
 
 ---
 
-## Resume
-
-<!-- Replace assets/resume-preview.png and assets/resume.pdf with your actual files -->
-
-<div align="center">
-
-<a href="assets/resume.pdf">
-  <img src="assets/resume-preview.png" alt="Resume preview — click to open PDF" width="70%">
-</a>
-
-</div>
-
-<br><br>
 
 ---
 
